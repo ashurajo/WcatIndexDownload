@@ -23,7 +23,8 @@ namespace 清單下載器
         public static int server = 1;
 
         public static int ver = 1;
-
+       
+        //CopyRight 孤之界 2018/01
         [STAThread]
         private static void Main()
         {
